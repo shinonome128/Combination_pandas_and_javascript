@@ -8,3 +8,5 @@ __pycache__/
 *.sh
 *.md
 *.zip
+RESULT/
+*.tsv
